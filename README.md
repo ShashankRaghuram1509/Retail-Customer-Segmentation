@@ -3,7 +3,7 @@ End to end process from Data Cleaning, Exploratory Data Analysis then do Custome
 
 Tools : Python (Pandas, Matplotlib, Scikit-Learn, Numpy, Seaborn, Scipy, Silhoutte Analysis) using Google Collab
 
-Check the code [here](https://github.com/ShashankRaghuram1509/Retail-Customer-Segmentation/blob/main/RETAIL_CUSTOMER_SEGMENTATION.ipynb)
+
 
 ## Overview
 Olist just started an e-commerce startup based in Portugal that recently opened an online website to sell their product. Fortunately, Olist is launching their website when the covid-19 hits and making them grow faster than ever. However, Olist is still not using targeted marketing which hurts their marketing budget as only a fraction of their user comes back to their website.
